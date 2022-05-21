@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Game Sale Deals",
+    "live": "https://game-sale-deals.netlify.app",
+    "git": "https://github.com/yinathan/game-deals-app",
+    "image": "http://www.imgur.com/pictureofproject.png"
+  },
+    {
+    "name": "project1",
+    "live": "https://golf-store.herokuapp.com",
+    "git": "https://github.com/yinathan/golf-store",
+    "image": "http://www.imgur.com/pictureofproject.png"
+  }
+]
